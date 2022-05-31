@@ -1,0 +1,18 @@
+{
+ "Person": {
+  "firstName": "Denys",
+  "lastName": "Demchenko",
+  "age": "32year"
+ },
+ "Pets": {
+  "mantis insect",
+  "ants",
+  "aquarium fish"
+ },
+ "future desired salary": [
+     "at first": "400$",
+     "in half a year": "600-700$"
+ ]
+}
+
+
