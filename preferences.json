@@ -1,10 +1,10 @@
 {
- "My preferences": {
-   "Favorite film": "Forrest GUMP",
-   "Favorite series": "they are very many",
-   "Favorite food": "ribs in honey sauce",
-   "Favorite time of year": "winter and summer"
-   "Country I want to visit": "Germany and Switzerland"
+ "My_preferences": {
+   "Favorite_film": "Forrest GUMP",
+   "Favorite_series": "they are very many",
+   "Favorite_food": "ribs in honey sauce",
+   "Favorite_time of year": "winter and summer"
+   "Country_I_want_to_visit": "Germany and Switzerland"
   }
 }
 

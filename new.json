@@ -5,14 +5,14 @@
   "age": "32year"
  },
  "Pets": {
-  "mantis insect",
-  "ants",
-  "aquarium fish"
+  "mantis_insect": "2",
+  "ants": "78",
+  "aquarium_fish": "5"
  },
- "future desired salary": [
-     "at first": "400$",
-     "in half a year": "600-700$"
- ]
+ "future_desired_salary": { 
+     "at_first": "400$",
+     "in_half_a_year": "600-700$"
+ }    
 }
 
 
